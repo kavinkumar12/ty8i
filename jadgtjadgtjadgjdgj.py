@@ -1,3 +1,3 @@
-x=input()
-y=x[::-1]
-print(y)
+a=input()
+b=a[::-1]
+print(b)
